@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472381620 source:/home/mhcrnl/Documents/Year2016/August2016/Sunday28/p20PrintBinary/main.c
+	<stdio.h>
+	<stdlib.h>
+
