@@ -1,1 +1,1 @@
-1000 de progrmae in limbajul c.
+1000 de programe in limbajul c.
