@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1475167411 source:/home/mhcrnl/Desktop/Year2016/1000ProgrameC/015Matrice/main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrice.h"
+
+1475168384 /home/mhcrnl/Desktop/Year2016/1000ProgrameC/015Matrice/matrice.h
+	<stdio.h>
+	<stdlib.h>
+
+1475168384 source:/home/mhcrnl/Desktop/Year2016/1000ProgrameC/015Matrice/matrice.c
+	"matrice.h"
+
