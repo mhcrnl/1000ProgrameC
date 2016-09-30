@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1475243557 source:/home/mhcrnl/Documents/Year2016/1000ProgrameC/vectorEx/addVector.c
+	"addVector.h"
+
+1475243557 /home/mhcrnl/Documents/Year2016/1000ProgrameC/vectorEx/addVector.h
+	<stdio.h>
+	<stdlib.h>
+
+1475241993 source:/home/mhcrnl/Documents/Year2016/1000ProgrameC/vectorEx/main.c
+	<stdio.h>
+	<stdlib.h>
+	"addVector.h"
+
