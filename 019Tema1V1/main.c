@@ -25,6 +25,13 @@ e) Sortati vectorul studenti descrescator, in functie de valorea câmpului nota2
 f) Determinati si afisati numele studentilor nepromovati.
  */
 
+ /** ============================================================
+ *  File:   main.c
+ *  Author: Mihai Cornel    mhcrnl@gmail.com    0722270796
+ *  System: Ubuntu 16.04    Code::Blocks 13.12  gcc
+ *          Fedora 23       Code::Blocks 16.01  gcc
+ *
+ =================================================================*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -33,6 +40,45 @@ f) Determinati si afisati numele studentilor nepromovati.
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("\t\t\tCatalog !\n");
+    int selectie ;
+    STUDENT studenti[10];
+    char numeStudent[20];
+    STUDENT studentCautat;
+
+    while(1){
+        selectie = meniu();
+
+        switch(selectie){
+            case 1:
+               printf("\nIntroduce-ti numarul de studenti dorit:");
+               int nr, i;
+               scanf("%d", &nr);
+               for (i=0; i<nr; i++){
+               studenti[i] = citireStudent();
+               }
+               break;
+            case 2:
+
+
+                printf("Introduce-ti numele studentului cautat: ");
+                scanf("%s", numeStudent);
+                studentCautat = cautaStudent(studenti, numeStudent, nr);
+                afisareStudent(studentCautat);
+                break;
+            case 3:
+                for(i=0; i<nr; i++){
+                    afisareStudent(studenti[i]);
+                }
+
+            case 5:
+                exit(1);
+            default:
+               break;
+        }
+
+    }
+
+
     return 0;
 }

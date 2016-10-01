@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475329067 source:/home/mhcrnl/Documents/Year2016/1000ProgrameC/019Tema1V1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
+1475329436 /home/mhcrnl/Documents/Year2016/1000ProgrameC/019Tema1V1/student.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1475329672 source:/home/mhcrnl/Documents/Year2016/1000ProgrameC/019Tema1V1/student.c
+	"student.h"
+
