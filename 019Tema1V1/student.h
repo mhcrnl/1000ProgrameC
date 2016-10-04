@@ -1,8 +1,8 @@
 /** ============================================================
- *  File:   main.c
+ *  File:   student.h
  *  Author: Mihai Cornel    mhcrnl@gmail.com    0722270796
  *  System: Ubuntu 16.04    Code::Blocks 13.12  gcc
- *          Fedora 23       Code::Blocks 16.01  gcc
+ *          Fedora 23       Code::Blocks 16.01  gcc version 5.3.1
  *
  =================================================================*/
 #ifndef STUDENT_H_INCLUDED
@@ -44,5 +44,7 @@ int meniu(void);
 void afisareStudent(STUDENT stud);
 
 STUDENT cautaStudent(STUDENT studenti[], char numeStudent[], int nrElemente);
+
+STUDENT celMaiBun(STUDENT studenti[], int materie, int nrElemente);
 
 #endif // STUDENT_H_INCLUDED
