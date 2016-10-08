@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1475917006 source:/home/mhcrnl/Desktop/Year2016/1000ProgrameC/020cppIn/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cpointer.h"
+
+1475916914 source:/home/mhcrnl/Desktop/Year2016/1000ProgrameC/020cppIn/cpointer.c
+
+1475917222 /home/mhcrnl/Desktop/Year2016/1000ProgrameC/020cppIn/cpointer.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1475916914 source:/home/mhcrnl/Desktop/Year2016/1000ProgrameC/020cpointer/cpointer.c
+
+1475917006 source:/home/mhcrnl/Desktop/Year2016/1000ProgrameC/020cpointer/main.c
+	<stdio.h>
+	<stdlib.h>
+	"cpointer.h"
+
+1475917222 /home/mhcrnl/Desktop/Year2016/1000ProgrameC/020cpointer/cpointer.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

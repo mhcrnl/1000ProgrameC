@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1475926946 source:/home/mhcrnl/Desktop/Year2016/October/FisiereEx/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1475926893 source:/home/mhcrnl/Desktop/Year2016/October/FisiereEx/fisiere.c
+	"fisiere.h"
+
+1475926893 /home/mhcrnl/Desktop/Year2016/October/FisiereEx/fisiere.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+

@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#include "tara.h"
+
+int main()
+{
+    printf("Hello world from TariCulori!\n");
+    printf();
+
+    return 0;
+}

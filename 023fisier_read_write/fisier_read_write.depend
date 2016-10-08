@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1475940495 source:/home/mhcrnl/Desktop/Year2016/October/fisier_read_write/main.c
+	<stdio.h>
+	<stdlib.h>
+	"copiereFisier.h"
+
+1475940470 source:/home/mhcrnl/Desktop/Year2016/October/fisier_read_write/copiereFisier.c
+	"copiereFisier.h"
+
+1475940470 /home/mhcrnl/Desktop/Year2016/October/fisier_read_write/copiereFisier.h
+	<stdio.h>
+	<stdlib.h>
+
