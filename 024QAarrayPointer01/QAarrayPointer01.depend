@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1476116641 source:/home/mhcrnl/Desktop/Year2016/October/QAarrayPointer01/main.c
+	<stdio.h>
+	<stdlib.h>
+	"qarraypoint.h"
+
+1476116641 /home/mhcrnl/Desktop/Year2016/October/QAarrayPointer01/qarraypoint.h
+	<stdio.h>
+	<stdlib.h>
+

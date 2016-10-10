@@ -13,3 +13,17 @@
 	<stdlib.h>
 	"tara.h"
 
+1475082099 source:/home/mhcrnl/Desktop/Year2016/1000ProgrameC/PcursC/TariCulori/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"tara.h"
+
+1475164012 /home/mhcrnl/Desktop/Year2016/1000ProgrameC/PcursC/TariCulori/tara.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476109838 source:/home/mhcrnl/Desktop/Year2016/1000ProgrameC/PcursC/TariCulori/tara.c
+	"tara.h"
+
