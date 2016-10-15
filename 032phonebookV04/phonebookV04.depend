@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1476522378 source:/home/mhcrnl/Desktop/Year2016/October/phonebookV04/phonebook.c
+	"phonebook.h"
+
+1476522121 /home/mhcrnl/Desktop/Year2016/October/phonebookV04/phonebook.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1476286070 source:/home/mhcrnl/Desktop/Year2016/October/phonebookV04/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1476513048 source:/home/mhcrnl/Desktop/Year2016/October/phonebookV04/tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tinyfiledialogs.h"
+	<Windows.h>
+	<Shlobj.h>
+	<sys/stat.h>
+	<conio.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+
+1476513388 /home/mhcrnl/Desktop/Year2016/October/phonebookV04/tinyfiledialogs.h
+
