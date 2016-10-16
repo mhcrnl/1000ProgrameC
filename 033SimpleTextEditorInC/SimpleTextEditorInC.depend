@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476626376 source:/home/mhcrnl/Desktop/Year2016/October/SimpleTextEditorInC/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1476627207 source:/home/mhcrnl/Desktop/Year2016/October/SimpleTextEditorInC/texteditor.c
+	"texteditor.h"
+
+1476626376 /home/mhcrnl/Desktop/Year2016/October/SimpleTextEditorInC/texteditor.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
