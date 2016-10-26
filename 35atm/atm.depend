@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477421893 source:/home/mhcrnl/Desktop/Year2016/October/atm/main.c
+	<stdio.h>
+	<stdlib.h>
+
