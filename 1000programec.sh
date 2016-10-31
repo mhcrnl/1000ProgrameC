@@ -1,5 +1,8 @@
-#!bin/bash
+#!/bin/bash
 
-cd ~/Desktop/Year2016/1000ProgrameC
-
-git add *
+echo ============START=============
+pushd $1
+echo Git pulling $1 from origin to master
+git pull origin master
+popd
+echo =============END===============
