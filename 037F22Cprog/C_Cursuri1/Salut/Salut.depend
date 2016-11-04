@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1472059621 source:/home/mhcrnl/Desktop/C_Cursuri1/Salut/main.c
+	<stdio.h>
+	<stdlib.h>
+	"print.h"
+
+1472059579 /home/mhcrnl/Desktop/C_Cursuri1/Salut/print.h
+	"stdio.h"
+

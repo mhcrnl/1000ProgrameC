@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1471076540 source:/home/mhcrnl/Desktop/C_cursuri/tablou/main.cpp
+	<iostream>
+	<iomanip>
+

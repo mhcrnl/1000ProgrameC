@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1469939289 source:/home/mhcrnl/Desktop/C_cursuri/Cpractica/main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<fstream>
+	<string>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1470233907 source:/home/mhcrnl/Desktop/C_cursuri/CppDeque/main.cpp
+	<iostream>
+	<deque>
+	<string>
+	<cstdlib>
+

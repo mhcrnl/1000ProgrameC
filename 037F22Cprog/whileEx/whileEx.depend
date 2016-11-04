@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472318960 source:/home/mhcrnl/Documents/F22Cprog/whileEx/main.c
+	<stdio.h>
+	<stdlib.h>
+

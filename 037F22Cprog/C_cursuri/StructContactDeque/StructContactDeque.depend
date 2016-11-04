@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1470326446 source:/home/mhcrnl/Desktop/C_cursuri/StructContactDeque/main.cpp
+	<iostream>
+	<string>
+	<deque>
+	<list>
+

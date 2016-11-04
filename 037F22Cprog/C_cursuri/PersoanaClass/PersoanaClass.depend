@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1470416797 source:/home/mhcrnl/Desktop/C_cursuri/PersoanaClass/main.cpp
+	<iostream>
+	"Persoana.h"
+
+1470416777 /home/mhcrnl/Desktop/C_cursuri/PersoanaClass/include/Persoana.h
+	<string>
+
+1470416523 source:/home/mhcrnl/Desktop/C_cursuri/PersoanaClass/src/Persoana.cpp
+	"Persoana.h"
+	<string>
+

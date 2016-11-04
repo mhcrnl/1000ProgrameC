@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472322997 source:/home/mhcrnl/Documents/F22Cprog/Piramida2/main.c
+	<stdio.h>
+	<stdlib.h>
+

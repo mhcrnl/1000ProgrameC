@@ -1,0 +1,5 @@
+Salut din functia fileOpen().
+FuncSalut din functia fileOpen().
+FuncSalut din functia fileOpen().
+FuncSalut din functia fileOpen().
+Salut din functia fileOpen().

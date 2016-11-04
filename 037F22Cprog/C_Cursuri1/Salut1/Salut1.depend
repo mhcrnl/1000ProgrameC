@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1472059895 source:/home/mhcrnl/Desktop/C_Cursuri1/Salut1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"salut.h"
+
+1472059895 /home/mhcrnl/Desktop/C_Cursuri1/Salut1/salut.h
+
+1472060047 source:/home/mhcrnl/Desktop/C_Cursuri1/Salut1/salut.c
+	<stdio.h>
+	"salut.h"
+

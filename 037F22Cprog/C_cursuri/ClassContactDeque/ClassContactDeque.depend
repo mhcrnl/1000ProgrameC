@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470414035 source:/home/mhcrnl/Desktop/C_cursuri/ClassContactDeque/main.cpp
+	<iostream>
+	<deque>
+

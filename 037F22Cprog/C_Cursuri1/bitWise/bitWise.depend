@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472050909 source:/home/mhcrnl/Desktop/C_Cursuri1/bitWise/main.c
+	<stdio.h>
+	<stdlib.h>
+

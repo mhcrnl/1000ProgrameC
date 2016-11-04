@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1470760530 source:/home/mhcrnl/Desktop/C_cursuri/StackLinkedList/main.cpp
+	<cstdio>
+	<cstdlib>
+

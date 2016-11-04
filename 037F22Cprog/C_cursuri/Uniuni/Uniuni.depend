@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471680240 source:/home/mhcrnl/Desktop/C_cursuri/Uniuni/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
