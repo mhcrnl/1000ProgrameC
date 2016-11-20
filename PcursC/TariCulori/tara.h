@@ -17,7 +17,7 @@ typedef struct TARA{
     char populatie[15];
     char culoare[15];
 }tara;
-/**< Adauga in vector taroile */
+/**< Adauga in vector tarile */
 void adauga(void);
 /**< Afiseaza din tari dupa indexul in care se afla in vector */
 void afiseaza(int index);

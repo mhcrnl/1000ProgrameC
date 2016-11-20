@@ -4,14 +4,31 @@
 int main()
 {
     printf("Hello world!\n");
-    int a, b, c, d = 0;
-    puts("Insert tow numbers 1.cate numere se impart la nr2");
-    scanf("%d %d", &a, &b);
+    int testCases;
+    int b, c, d = 0;
+
+    FILE *fp;
+    fp = fopen("file.txt", "w+");
+
+    puts("Introduceti numarul de valori pe care doriti sa=l evaluati: ");
+    scanf("%d", &testCases);
+
+
+
     int i;
-    for(i=0; i<a; i++){
+    for(i=0; i<testCases; i++){
+
+        puts("Introduceti numarul pe care il veti imparti: ");
+        scanf("%d", &b);
+
+        printf("Introduceti numarul la care doriti sa-l impartiti: ");
         scanf("%d", &c);
-        if(c%b == 0) d++;
+        if(b/c == 0) d++;
+        fprintf(fp, "a:%d  b:%d c:%d  c/b=%d\n", testCases, b, c, d);
     }
+
+    fclose(fp);
+
     printf("%d", d);
     return 0;
 }

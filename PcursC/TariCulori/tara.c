@@ -75,6 +75,8 @@ void salveazaInFila(void){
         return;
     }
     puts("Vectorul tari a fost salvat!");
+
+    fclose(fp);
 }
 
 void citesteDinFila(void){
@@ -91,15 +93,23 @@ void citesteDinFila(void){
         puts("EROARE: datele nu pot fi citite!");
         return;
     }
+    fclose(fp);
 }
 
 void cautaCuloare(char cautaCuloare[]){
     int i;
+    FILE *fp;
+    if((fp = fopen("tariGasite.txt", "w")) == NULL){
+        puts("EROARE: Nu se poate crea fila");
+    }
     for (i=0; i<dim_curenta; i++){
         if((strcmp(cautaCuloare, tari[i].culoare))== 0){
-
+            printf("Au fost gasite tari!\n");
+            fprintf(fp, "%s %s %s\n", tari[i].den_tara, tari[i].populatie, tari[i].culoare);
+            afiseaza(i);
         }
     }
+    fclose(fp);
 }
 
 
