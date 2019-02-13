@@ -29,3 +29,33 @@
 
 1476513388 /home/mhcrnl/Desktop/Year2016/October/phonebookV04/tinyfiledialogs.h
 
+1550076001 source:/home/mhcrnl/Desktop/2019/C/1000ProgrameC/032phonebookV04/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1550076001 source:/home/mhcrnl/Desktop/2019/C/1000ProgrameC/032phonebookV04/phonebook.c
+	"phonebook.h"
+
+1550076001 /home/mhcrnl/Desktop/2019/C/1000ProgrameC/032phonebookV04/phonebook.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1550076001 source:/home/mhcrnl/Desktop/2019/C/1000ProgrameC/032phonebookV04/tinyfiledialogs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"tinyfiledialogs.h"
+	<Windows.h>
+	<Shlobj.h>
+	<sys/stat.h>
+	<conio.h>
+	<limits.h>
+	<unistd.h>
+	<dirent.h>
+	<termios.h>
+	<sys/utsname.h>
+
+1550076001 /home/mhcrnl/Desktop/2019/C/1000ProgrameC/032phonebookV04/tinyfiledialogs.h
+
